@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "producto": {
+            "nombre": "TENIS SAMBA",
+            "descripcion": "Cuando piensas en el estilo clásico del fútbol, ¿qué viene a tu mente? Para nosotros, son los tenis adidas Samba. Creados originalmente para los entrenamientos de cancha cubierta en los años 50, se han convertido en uno de nuestros estilos más populares y no es difícil ver por qué."
+        },
+        "stock": 4
+    },
+    {
+        "id": "2",
+        "producto": {
+            "nombre": "TENIS ULTRABOOST LIGHT",
+            "descripcion": "Descubre una energía épica con los nuevos Ultraboost Light, los Ultraboost más ligeros que hemos creado. La magia está en la mediasuela Light BOOST, una nueva generación de adidas BOOST."
+        },
+        "stock": 1
+    },
+    {
+        "id": "3",
+        "producto": {
+            "nombre": "TENIS RESPONSE RUNNER",
+            "descripcion": "Para tus carreras matutinas o tus quehaceres cotidianos. Estos tenis de running adidas presentan una parte superior de malla transpirable que te ofrece la comodidad que buscas en tu día a día. Incorporan una suave mediasuela con amortiguación y una suela de caucho resistente al desgaste que te proporciona la sujeción y tracción que necesitas en tus aventuras urbanas."
+        },
+        "stock": 3
+    }
+]
